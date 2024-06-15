@@ -1,0 +1,26 @@
+{
+  "name": "react_projects",
+  "version": "1.0.0",
+  "description": "learning react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bharatk10/React-Folder.git"
+  },
+  "keywords": [
+    "reactjs",
+    "react.js"
+  ],
+  "author": "Bharat Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bharatk10/React-Folder/issues"
+  },
+  "homepage": "https://github.com/Bharatk10/React-Folder#readme",
+  "dependencies": {
+    "react": "^18.2.0"
+  }
+}
